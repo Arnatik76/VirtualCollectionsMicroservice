@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <compositeConfiguration>
+          <compositeBuild compositeDefinitionSource="SCRIPT">
+            <builds>
+              <build path="$PROJECT_DIR$/vc-achievement" name="vc-achievement">
+                <projects>
+                  <project path="$PROJECT_DIR$/vc-achievement" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/vc-collections" name="vc-collections">
+                <projects>
+                  <project path="$PROJECT_DIR$/vc-collections" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/vc-config" name="vc-config">
+                <projects>
+                  <project path="$PROJECT_DIR$/vc-config" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/vc-content" name="vc-content">
+                <projects>
+                  <project path="$PROJECT_DIR$/vc-content" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/vc-entity" name="vc-entity">
+                <projects>
+                  <project path="$PROJECT_DIR$/vc-entity" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/vc-gateway" name="vc-gateway">
+                <projects>
+                  <project path="$PROJECT_DIR$/vc-gateway" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/vc-server" name="vc-server">
+                <projects>
+                  <project path="$PROJECT_DIR$/vc-server" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/vc-users" name="vc-users">
+                <projects>
+                  <project path="$PROJECT_DIR$/vc-users" />
+                </projects>
+              </build>
+              <build path="$PROJECT_DIR$/vc-utils" name="vc-utils">
+                <projects>
+                  <project path="$PROJECT_DIR$/vc-utils" />
+                </projects>
+              </build>
+            </builds>
+          </compositeBuild>
+        </compositeConfiguration>
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/vc-achievement" />
+            <option value="$PROJECT_DIR$/vc-collections" />
+            <option value="$PROJECT_DIR$/vc-config" />
+            <option value="$PROJECT_DIR$/vc-content" />
+            <option value="$PROJECT_DIR$/vc-entity" />
+            <option value="$PROJECT_DIR$/vc-gateway" />
+            <option value="$PROJECT_DIR$/vc-server" />
+            <option value="$PROJECT_DIR$/vc-users" />
+            <option value="$PROJECT_DIR$/vc-utils" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

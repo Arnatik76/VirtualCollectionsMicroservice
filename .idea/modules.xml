@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vc-achievement/vc-achievement.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vc-achievement/vc-achievement.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vc-collections/vc-collections.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vc-collections/vc-collections.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vc-content/vc-content.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vc-content/vc-content.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vc-entity/vc-entity.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vc-entity/vc-entity.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/vc-users/vc-users.main.iml" filepath="$PROJECT_DIR$/.idea/modules/vc-users/vc-users.main.iml" />
+    </modules>
+  </component>
+</project>

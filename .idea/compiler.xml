@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.38/57f8f5e02e92a30fd21b80cbd426a4172b5f8e29/lombok-1.18.38.jar" />
+        </processorPath>
+        <module name="vc-users.main" />
+        <module name="vc-collections.main" />
+        <module name="vc-content.main" />
+        <module name="vc-achievement.main" />
+      </profile>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-configuration-processor/3.4.5/e5ae93bf2b951d13c310162351a2818e169b7519/spring-boot-configuration-processor-3.4.5.jar" />
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.38/57f8f5e02e92a30fd21b80cbd426a4172b5f8e29/lombok-1.18.38.jar" />
+        </processorPath>
+        <module name="vc-entity.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="1.6">
+      <module name="kz.example.vc-server" target="24" />
+      <module name="kz.example.vc-server.main" target="24" />
+      <module name="kz.example.vc-server.test" target="24" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="kz.example.vc-server" options="-parameters" />
+      <module name="kz.example.vc-server.main" options="-parameters" />
+      <module name="kz.example.vc-server.test" options="-parameters" />
+      <module name="vc-achievement" options="-parameters" />
+      <module name="vc-achievement.main" options="-parameters" />
+      <module name="vc-achievement.test" options="-parameters" />
+      <module name="vc-collections" options="-parameters" />
+      <module name="vc-collections.main" options="-parameters" />
+      <module name="vc-collections.test" options="-parameters" />
+      <module name="vc-config" options="-parameters" />
+      <module name="vc-config.main" options="-parameters" />
+      <module name="vc-config.test" options="-parameters" />
+      <module name="vc-content" options="-parameters" />
+      <module name="vc-content.main" options="-parameters" />
+      <module name="vc-content.test" options="-parameters" />
+      <module name="vc-entity" options="-parameters" />
+      <module name="vc-entity.main" options="-parameters" />
+      <module name="vc-entity.test" options="-parameters" />
+      <module name="vc-gateway" options="-parameters" />
+      <module name="vc-gateway.main" options="-parameters" />
+      <module name="vc-gateway.test" options="-parameters" />
+      <module name="vc-server" options="-parameters" />
+      <module name="vc-server.main" options="-parameters" />
+      <module name="vc-server.test" options="-parameters" />
+      <module name="vc-users" options="-parameters" />
+      <module name="vc-users.main" options="-parameters" />
+      <module name="vc-users.test" options="-parameters" />
+      <module name="vc-utils" options="-parameters" />
+      <module name="vc-utils.main" options="-parameters" />
+      <module name="vc-utils.test" options="-parameters" />
+    </option>
+  </component>
+</project>

@@ -1,0 +1,11 @@
+rootProject.name = 'vc-microservices'
+
+includeBuild 'vc-config'
+includeBuild 'vc-entity'
+includeBuild 'vc-gateway'
+includeBuild 'vc-server'
+includeBuild 'vc-users'
+includeBuild 'vc-utils'
+includeBuild 'vc-collections'
+includeBuild 'vc-content'
+includeBuild 'vc-achievement'
